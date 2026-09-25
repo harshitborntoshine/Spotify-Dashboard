@@ -1,1 +1,1 @@
-<img src="Dashboard SS.png" alt="Project Screenshot" width="400">
+<img src="Dashboard SS.png" alt="Project Screenshot">
